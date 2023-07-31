@@ -6,4 +6,10 @@ class Demo
          s.o.print(" Hello World!"); 
      }
   }
+<<<<<<< HEAD
 main branch code
+=======
+ branch code
+
+>>>>>>> dev
+>>>>>>> resolve conflict
