@@ -1,5 +1,19 @@
-hii 
-hello
-this is prathima is from akividu
-iam learning aws devops in sathya tech in ameerpet hyderabad
+enter " the values of  arithematic operators "
+int main()
+{
+    int a = 9,b = 4, c;
+    
+    c = a+b;
+    printf("a+b = %d \n",c);
+    c = a-b;
+    printf("a-b = %d \n",c);
+    c = a*b;
+    printf("a*b = %d \n",c);
+    c = a/b;
+    printf("a/b = %d \n",c);
+    c = a%b;
+    printf("Remainder when a divided by b = %d \n",c);
+    
+    return 0;
+}
 
